@@ -1,0 +1,6 @@
+Thien  23  male
+Anh  121  female
+Phuc  18  female
+Hung  69  female
+Manh  20  male
+Tin  30  male
