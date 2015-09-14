@@ -1,0 +1,5 @@
+2  chocolate - food  20
+3  bread - food  5
+5  import Headache - medicine  40 
+3  books  10
+4  electric  40

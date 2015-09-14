@@ -1,0 +1,9 @@
+Quantity  Product                       Price  Tax  
+2         chocolate - food              20      0%
+3         bread - food                  5       0%
+5         import Headache - medicine    40      5%
+3         books                         10      0%
+4         electric                      40     10%
+ Sum of Tax : 26.0
+ Sum of Money 445
+ Sum of Money with tax : 471.0
